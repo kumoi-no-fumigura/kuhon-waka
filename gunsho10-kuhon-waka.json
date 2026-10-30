@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kuhon-waka",
  "yomi": "くほんわか",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書",
+  "era": "平安中期",
+  "author": "藤原公任",
+  "desc": "和歌を上品上から下品下までの九段階に分け、それぞれの特色を一言で述べ、例歌を二首ずつ挙げたもの。「和歌九品」とも呼ぶ。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -59,6 +64,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
